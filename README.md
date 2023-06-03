@@ -14,8 +14,8 @@ The IQEQ-Tester-GPT4 program contains the following features:
 
 ## User's Guide
 
-1. Copy and paste the prompt in JSON format into your GPT-4 model. 2.
-2. Follow the commands in the prompt, such as selecting a test type, answering questions, etc. 3.
+1. Copy and paste the [prompt](./IQEQ-Test.json) in JSON format into your GPT-4 model. 
+2. Follow the commands in the prompt, such as selecting a test type, answering questions, etc. 
 3. After completing the test, get your score and score explanation.
 
 ## Caution
@@ -48,7 +48,7 @@ IQEQ-Tester-GPT4 项目包含以下功能：
 
 ## 使用指南
 
-1. 复制粘贴 JSON 格式的提示（prompt）到你的 GPT-4 模型中。
+1. 复制粘贴 JSON 格式的[提示](./IQEQ-Test.json)（prompt）到你的 GPT-4 模型中。
 2. 根据提示（prompt）中的命令进行相应的操作，例如选择测试类型、回答问题等。
 3. 在完成测试后，获取你的得分和得分解释。
 
